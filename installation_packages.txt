@@ -1,0 +1,9 @@
+matplotlib
+tkinter
+pandas
+
+in order to run python gui without any error install the following python packages
+just past the following link to the python terminal
+
+for themes:
+	pip install git+https://github.com/RedFantom/ttkthemes
